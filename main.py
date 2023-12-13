@@ -1,5 +1,5 @@
 #From Open Weather API
-
+from keys import *
 
 import requests
 
